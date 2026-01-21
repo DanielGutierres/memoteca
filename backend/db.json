@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "A persistência é o caminho do êxito.",
+      "autoria": "Charles Chaplin",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "A vida é 10% o que acontece comigo e 90% como eu reajo a isso.",
+      "autoria": "Charles Swindoll",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "O sucesso é ir de fracasso em fracasso sem perder o entusiasmo.",
+      "autoria": "Winston Churchill",
+      "modelo": "modelo3"
+    }
+  ]
+}
