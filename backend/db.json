@@ -4,43 +4,53 @@
       "id": 1,
       "conteudo": "A persistência é o caminho do êxito.",
       "autoria": "Charles Chaplin",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": 2,
       "conteudo": "A vida é 10% o que acontece comigo e 90% como eu reajo a isso  mesmo dalva",
       "autoria": "Charles Swindoll",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "O sucesso é ir de fracasso em fracasso sem perder o entusiasmo.",
       "autoria": "Winston Churchill",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
+      "id": 4,
       "conteudo": "Aprendendo Angular",
       "autoria": "Dev",
       "modelo": "modelo2",
-      "id": 4
+      "favorito": false
     },
     {
+      "id": 5,
       "conteudo": "A Dalva está programando em Angular",
       "autoria": "Cleity",
       "modelo": "modelo3",
-      "id": 5
+      "favorito": true
+
     },
     {
+      "id": 6,
       "conteudo": "Eu queria ser a Dalva mas a Dalva não posso ser",
       "autoria": "Cleity",
       "modelo": "modelo2",
-      "id": 6
+      "favorito": false
+
     },
     {
+      "id": 7,
       "conteudo": "Carlinho e o Carlinhos",
       "autoria": "Carlinhos",
       "modelo": "modelo1",
-      "id": 7
+      "favorito": true
+
     }
   ]
 }
