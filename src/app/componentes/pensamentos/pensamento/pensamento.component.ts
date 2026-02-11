@@ -15,6 +15,7 @@ export class PensamentoComponent implements OnInit {
         conteudo: '',
         autoria: '',
         modelo: '',
+        favorito: false
     }
   ngOnInit(): void {
   }
